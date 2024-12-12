@@ -1,1 +1,3 @@
-# crowd-monitoring-system
+# Crowd-Monitoring-System
+
+The Crowd Monitoring Using Image Processing project aims to develop a system that utilizes image processing techniques to monitor crowds in public spaces. By employing object detection and tracking algorithms, the system detects and tracks individuals within crowds, analyzes crowd density, and identifies potential anomalies or risks. Leveraging technologies like machine learning, the project provides insights for effective crowd management, public safety enhancement, urban planning optimization, and architects. With the ability to capture and process data from cameras or video feeds, the system offers valuable information to authorities and stakeholders, facilitating proactive decision-making and risk mitigation strategies in various scenarios, including events, emergencies, and public spaces.
